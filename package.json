@@ -1,0 +1,11 @@
+{
+  "name": "@scarletsky/wechat-dat-decoder",
+  "version": "1.0.0",
+  "main": "src/decode.js",
+  "bin": "bin/decode.js",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "yargs": "^17.0.1"
+  }
+}
